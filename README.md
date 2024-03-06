@@ -9,6 +9,7 @@ A sample mcap (ROSBag) file is provided for checking out the script. In this exa
 An extra script is provided which can be used for reading the OSI traces. 
 ## How to get started?
 Dependencies needed to run the script:
-1. ROS Module installed (preferrably ros galactic) https://docs.ros.org/en/galactic/Installation.html
-2. Python 3.8
-3. Open-Simulation-Interface https://github.com/OpenSimulationInterface/open-simulation-interface
+1. Python 3.8
+2. ROS Module installed (preferrably ros galactic) https://docs.ros.org/en/galactic/Installation.html
+3. Autoware- Module installed (https://github.com/tier4/autoware_auto_msgs/tree/tier4/main)
+4. Open-Simulation-Interface https://github.com/OpenSimulationInterface/open-simulation-interface
