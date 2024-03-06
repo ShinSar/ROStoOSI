@@ -1,6 +1,6 @@
 # ROStoOSI
 ## Description
-This repository is used Generation of OSI-traces from ROSBags
+This repository is used for the generation of OSI-traces from ROSBags
 
 ROSBags are converted into OSI traces following the ASAM OSI standard ( https://opensimulationinterface.github.io/osi-documentation/#top-osi_trace_file_formats )
 Part of this script has been copied and adapted from the OSITrace python package example (https://opensimulationinterface.github.io/osi-antora-generator/asamosi/latest/interface/architecture/trace_file_example.html)
