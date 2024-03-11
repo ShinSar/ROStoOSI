@@ -18,3 +18,11 @@ An extra script is provided which can be used for reading the OSI traces.
 3. ROS Module installed (preferrably ros galactic) https://docs.ros.org/en/galactic/Installation.html
 4. Autoware- Module installed (https://github.com/tier4/autoware_auto_msgs/tree/tier4/main)
 5. Open-Simulation-Interface https://github.com/OpenSimulationInterface/open-simulation-interface
+
+## To get started
+```
+cd exisiting repository
+git clone https://github.com/ShinSar/ROStoOSI.git
+cd ROStoOSI
+docker run dockerfile
+```
